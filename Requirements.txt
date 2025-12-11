@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard]
+nest_asyncio
+aiohttp
